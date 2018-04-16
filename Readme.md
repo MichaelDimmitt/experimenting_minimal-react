@@ -19,3 +19,28 @@ https://gist.github.com/jonathanconway/15271dda82b1de39e12eb938ac4a6e8
 2) warning, dont clone down create-react-app and move packages folder over. 
 <br>they hardcoded dependencies so that it would not play nice.
 
+```
+ npm install find-pkg
+ npm install jest@22.1.2
+ npm install webpack@3.10.0
+ npm install autoprefixer --save-dev
+ npm install case-sensitive-paths-webpack-plugin --save-dev
+ npm install eslint --save-dev
+ npm install eslint-loader --save-dev
+ npm install url-loader --save-dev
+ npm install style-loader --save-dev
+ npm install css-loader --save-dev
+ npm install postcss-loader --save-dev
+ npm install file-loader --save-dev
+ npm install react-dev-utils --save-dev
+ npm install autoprefixer --save-dev
+ npm install case-sensitive-paths-webpack-plugin --save-dev
+ npm install eslint --save-dev
+ npm install eslint-loader --save-dev
+ npm install url-loader --save-dev
+ npm install style-loader --save-dev
+ npm install css-loader --save-dev
+ npm install postcss-loader --save-dev
+ npm install file-loader --save-dev
+ npm install postcss-flexbugs-fixes
+```
